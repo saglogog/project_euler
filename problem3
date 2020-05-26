@@ -1,0 +1,13 @@
+To find the largest prime factor of 600851475143 (=x): 
+1. find and store a number i that divides x (x%i=0) and its counter factor y (y =x/i) and store them.
+2. After a couple of tries we realize that there are not that many factors. 
+   For that reason, after having gathered a few factors, we start from the smallest, testing to see if they 
+   have other factors or not. 
+4. We get lucky at 6857.
+
+All the factors calculated in pairs:
+73     8462696833
+839    716151937
+1471   408464633
+-6857   87625999
+59569  10086647
