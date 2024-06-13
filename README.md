@@ -1,29 +1,24 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Personal Project euler solutions
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Clone
+* Depending on the prolem solution language, download relevant language stuff, build, run
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* most of the problem solution are not optimized, I try to find other solutions or improve them based on project euler solutions for my practice 
+* This is a personal repository, please do not check solutions of problems if you haven't solved them
+* It is not genrally open for contributions but dont want to make it private
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* me or nobody
+
+////////////////////////////
+
+ [Helpful markdown tutorial](https://bitbucket.org/tutorials/markdowndemo)
